@@ -2,7 +2,7 @@
 
 FRONT-END: https://github.com/mmpodkanski/computer-shop-front
 
-AWS: http://mmpod-computershop.s3-website.us-east-2.amazonaws.com/
+AWS: NOT_WORKING
 
 Simple ecommerce shop, whereby you are able to buy some computer components.
 
@@ -58,7 +58,7 @@ Now I'm working on:
 
 ## Installation
 
-1. Clone the Project using link https://github.com/mmpodkanski/computer-shop-back.git or Download the zip
+1. Clone the Project using link https://github.com/VivekPandey09032002/computer-shop-back or Download the zip
 2. Open project in IntelliJ:
 
 - File->New->Project from Version Control then past clone link
